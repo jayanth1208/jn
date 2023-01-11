@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: blueviolet;
+    border-width: 5px;
+    width: 5%;
+}
+a{
+    background-color: aquamarine;
+}
